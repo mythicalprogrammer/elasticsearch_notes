@@ -1,4 +1,5 @@
-elasticsearch_notes
-===================
+Anthony Doan's Elasticsearch Notes
+========
 
-My notes for ElasticSearch
+My elasticsearch notes.
+
